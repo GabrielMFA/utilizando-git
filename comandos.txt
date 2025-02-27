@@ -27,3 +27,5 @@ git pull
 
 -> Sincroniza sem alterar a pasta local verificando mudanças no Github
 git fetch
+
+-> Mais comandos em: https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
