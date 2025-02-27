@@ -1,3 +1,12 @@
+-> Configura o pc com nome e e-mail do responsável pelo código
+git config --global user.name "Gabriel Modenese Faggian Abila"
+git config --global user.email gabrielmfa2@gmail.com
+
+-> Navegando no cmd
+cd nome-da-pasta // entra em uma pasta
+cd..             // volta uma pasta
+cd /             // vai para o C:
+
 -> Inicializa um repositório git (utilizado apenas 1 vez)
 git init
 
