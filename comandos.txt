@@ -24,3 +24,6 @@ git push
 
 -> Baixa a atualização dos arquivos do Github para uma pasta já existente
 git pull
+
+-> Sincroniza sem alterar a pasta local verificando mudanças no Github
+git fetch
